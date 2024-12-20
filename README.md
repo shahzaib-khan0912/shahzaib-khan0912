@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shahzaib Khan, @shahzaib-khan0912, a 18 yesr old CS student at FAST UNIVERSITY ISLAMABAD.
+- 👋 Hi, I’m Shahzaib Khan, @shahzaib-khan0912, a 18 year old CS student at FAST UNIVERSITY ISLAMABAD.
 - 👀 I’m interested in problem solving, game designing and learning new programming languages.
 - 🌱 I’m currently learning C++ at the beginner level, and would like tot learn Python too.
 - 💞️ I’m looking to collaborate on anything right now.
