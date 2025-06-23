@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Shahzaib Khan, @shahzaib-khan0912, a CS student at FAST UNIVERSITY ISLAMABAD.
-- 👀 I’m interested in problem solving, game designing and learning new programming languages.
-- 🌱 I’m currently learning C++ at the beginner level, and would like to learn Python too.
--
-
 <h2 align="center">👋 Hi there, I'm Shahzaib!</h2>
 
 <p align="center">
