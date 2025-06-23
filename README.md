@@ -8,13 +8,10 @@
 <p align="center">
   🎓 Computer Science Student & Problem Solver <br>
   💻 Passionate about C/C++ <br>
-  📫 Let's connect & build something amazing together!
+  📫 Let's connect & build something amazing together!<br>
   📫 How to reach me : shahzaib.khan0898@gmail.com or i240741@isb.nu.edu.pk
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/GitHub%20Developer%20Program-100000?style=for-the-badge&logo=github&logoColor=white&labelColor=black" />
-</p>
 
 ---
 
