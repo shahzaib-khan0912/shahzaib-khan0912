@@ -1,18 +1,15 @@
 - 👋 Hi, I’m Shahzaib Khan, @shahzaib-khan0912, a CS student at FAST UNIVERSITY ISLAMABAD.
 - 👀 I’m interested in problem solving, game designing and learning new programming languages.
 - 🌱 I’m currently learning C++ at the beginner level, and would like to learn Python too.
-- 📫 How to reach me : shahzaib.khan0898@gmail.com or i240741@isb.nu.edu.pk.
-
+-
 
 <h2 align="center">👋 Hi there, I'm Shahzaib!</h2>
 
 <p align="center">
   🎓 Computer Science Student & Problem Solver <br>
-  💻 Passionate about C/C++, Dart, and Web Technologies <br>
-  🌐 Web Developer at <a href="https://www.linkedin.com/company/nexium-global/posts/?feedView=all" target="_blank"><strong>Nexium</strong></a> <br>
-  🚀 Exploring Flutter, Competitive Programming & Open Source <br>
-  🧑‍💻 Member of the <strong>GitHub Developer Program</strong> <br>
+  💻 Passionate about C/C++ <br>
   📫 Let's connect & build something amazing together!
+  📫 How to reach me : shahzaib.khan0898@gmail.com or i240741@isb.nu.edu.pk
 </p>
 
 <p align="center">
