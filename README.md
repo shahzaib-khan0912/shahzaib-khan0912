@@ -27,25 +27,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzaib-khan0912&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzaib-khan0912&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=shahzaib-khan0912&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shahzaib-khan0912&theme=default" alt="GitHub Trophies" />
-</p>
 
 <!---
 shahzaib-khan0912/shahzaib-khan0912 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
